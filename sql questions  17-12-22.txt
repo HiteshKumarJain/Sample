@@ -25,4 +25,7 @@ employees who joined the company before their managers.
 	arraylist = {10,20,30,40,50,60};
 	swap second element  and fifth element
 4)WAJP to explain all the properties of treemap by using real time example
-5)WAJP for comparable and explain the features of it in collection.	
+5)WAJP for comparable and explain the features of it in collection.
+
+
+------------------------------------------------------------------------------------------	
